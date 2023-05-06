@@ -1,4 +1,4 @@
-# Changing The DOM with DevTools and JavaScript
+# Changing The DOM with DevTools and JavaScript c
 
 ## Learning Goals
 
